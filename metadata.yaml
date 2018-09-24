@@ -1,5 +1,8 @@
 _repo: Saturday-Night-Thoughts-A-Series-of-Dissertations-on-Spiritual-Historical-and-Philosophic-The__56691
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56691-h/images/cover.jpg
 creator:
   author:
     agent_name: Whitney, Orson F. (Orson Ferguson)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37603
     wikipedia: http://en.wikipedia.org/wiki/Orson_F._Whitney
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56691#Saturday-Night-Thoughts-A-Series-of-Dissertations-on-Spiritual-Historical-and-Philosophic-The_
 gutenberg_issued: '2018-03-06'
 gutenberg_type: Text
 identifiers:
